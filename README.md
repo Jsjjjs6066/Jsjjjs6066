@@ -29,7 +29,7 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com(@Jsjjjs60666" target="_blank">
+  <a href="https://youtube.com(/c/Jsjjjs60666" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="mailto:jsjjjs6066@outlook.com" target="_blank">
